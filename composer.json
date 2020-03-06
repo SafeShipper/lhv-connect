@@ -3,7 +3,7 @@
     "description": "LHV bank's CONNECT service for Laravel 6",
     "keywords": ["lhv", "lhv-connect", "connect", "lhv-bank", "bank"],
     "homepage": "https://github.com/mihkullorg/lhv-connect",
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-master",
     "license": "MIT",
     "authors": [{
         "name": "Mihkel Allorg",
