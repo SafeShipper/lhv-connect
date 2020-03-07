@@ -23,12 +23,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Mihkullorg\\LhvConnect\\": "src/Mihkullorg/LhvConnect"
+      "Mihkelallorg\\LhvConnect\\": "src/Mihkelallorg/LhvConnect"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Mihkullorg\\LhvConnect\\Tests\\": "tests"
+      "Mihkelallorg\\LhvConnect\\Tests\\": "tests"
     }
   }
 }
