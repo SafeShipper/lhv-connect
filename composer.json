@@ -4,6 +4,7 @@
   "keywords": ["lhv","lhv-connect", "connect", "lhv-bank", "bank"],
   "homepage": "https://github.com/mihkullorg/lhv-connect",
   "license": "MIT",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Mihkel Allorg",
